@@ -10,7 +10,7 @@ In November 2021 I have also started studying JS and C# Development at Software 
  	<li>Programming Basics</li>
  	<li>QA Basics</li>
  	<li>QA Automation</li>
- 	<li>Programming Fundamentals</li>
+ 	<li>JS Advanced</li>
 </ul>
 <h3>Non-essential courses</h3>
 <ul>
