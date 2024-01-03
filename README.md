@@ -11,7 +11,8 @@ I have completed the following courses:
  	<li>QA Basics</li>
  	<li>QA Automation</li>
  	<li>JS Advanced</li>
- <li>Udemy C# Test Automation Engineer - from Zero to Hero</li>
+ <li>Udemy Test Automation Engineer - from Zero to Hero</li>
+ <li>Udemy - The Complete 2023 Software Testing Bootcamp</li>
 </ul>
 <h3>Non-essential courses</h3>
 <ul>
