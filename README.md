@@ -27,5 +27,10 @@ I have completed the following courses:
 I love Running 🏃‍♂️ and participated in more than 50+ races.
 🏔️ I love to go hiking in the mountains
 📷 And I also like photography.
+<h3>🖥️ Blogs</h3>
+<li> My Software Testing blog:</li> 
+<p>Check out my latest blog post [Click Here](https://QAthings.com) learn more about software testing best practices  and industry trends.</p>
+ 
+<li> Url: https://QAthings.com/</li>
 <h3>📫 How to reach me:</h3>
 <li> https://github.com/PavlinBG</li>
