@@ -1,9 +1,9 @@
 <h2>👋 Introduction and bio</h2>
 🧑 Hi, my name is Pavlin and I am from Pleven, Bulgaria 🇧🇬!
 
-🔍 I am currently on my journey to become a QA and I am actively searching for my first job in the IT industry.
+🔍 I am currently a Junior Integration Engineer.  
 
-🎓 I graduated from Technical University Sofia with a Master's degree in Machine Engineering and Software Development from SoftUni.
+🎓 I graduated from Technical University Sofia with a Master's in Machine Engineering and Software Development from SoftUni.
 
 I have completed the following courses:
 <ul>
